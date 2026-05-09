@@ -49,22 +49,24 @@ const socials = [
 
 const experience = [
   {
-    company: 'Finance Experience Placeholder',
-    role: 'Student Analyst',
-    period: '2023 - 2024',
+    company: 'Gain Home Loans',
+    role: 'Broker Support Officer',
+    period: 'July 2025 - Present',
     points: [
-      'Prepared research, summaries, and analysis to support business or investment-related decisions.',
-      'Worked with spreadsheet models, financial information, and concise written communication.',
-      'Collaborated with peers and stakeholders to turn ambiguous questions into clear outputs.',
+      'Managed end-to-end property settlements, ensuring timely lodgment, fund disbursement, and compliance with legal requirements.',
+      'Liaised with solicitors, brokers, and banks to coordinate seamless transactions via platforms like PEXA',
+      'Reviewed and prepared settlement documentation, resolving discrepancies to prevent delays and ensure accuracy.',
     ],
   },
   {
-    company: 'Technology Experience Placeholder',
-    role: 'Information Systems Contributor',
-    period: '2022 - 2023',
+    company: 'Gain Home Loans',
+    role: 'Digital integration and CRM specialist',
+    period: 'March 2025 - Present',
     points: [
-      'Explored how systems, data, and technology can improve business processes and user outcomes.',
-      'Documented workflows, identified improvement opportunities, and presented practical recommendations.',
+      'Manage and optimize digital integration between the website, CRM, and third-party platforms to ensure seamless data flow.',
+      'Oversee CRM systems, automating workflows and improving user adoption to enhance customer interactions.',
+      'Enhance digital customer experience by analysing user behaviour and implementing optimisation strategies.',
+      'Trouble shoot and resolve technical issues, ensuring all integrated systems function efficiently and securely.',
     ],
   },
 ];
