@@ -75,9 +75,7 @@ const education = [
     degree: 'Bachelor of Commerce / Information Systems',
     period: '2025 - Present',
     details: [
-      'Distinction Weighted Average Mark (83.25)',
-      'Ranked top 30 for Accounting and Accountability',
-      'Ranked 7th for Data Accuracy in Introduction to Data Analytics KNIME assessment',
+      'Distinction Weighted Average Mark (78.33)',
     ],
   },
   {
@@ -85,8 +83,9 @@ const education = [
     degree: 'Bachelor of Commerce / Information Systems',
     period: '2024 - 2025',
     details: [
-      'Distinction Weighted Average Mark (78.33)',
-      'Focused on finance, business analysis, information systems, and technology-enabled decision making.',
+      'Distinction Weighted Average Mark (83.25)',
+      'Ranked 7th for Data Accuracy in Introduction to Data Analytics KNIME assessment',
+      'Ranked top 30 for Accounting and Accountability',
     ],
   },
 ];
@@ -327,7 +326,7 @@ function Education() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           eyebrow="Education"
-          title="Academic foundation in commerce, finance, and information systems."
+          title="Building a strong foundation in finance, technology, and business analytics."
           description="Currently studying Commerce and Information Systems at UNSW, with a growing focus on finance, analytics, and technology-driven solutions."
         />
 
