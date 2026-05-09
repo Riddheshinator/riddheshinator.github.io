@@ -20,9 +20,9 @@ const profile = {
   name: 'Riddhesh Mehta',
   title: 'Commerce and Information Systems student at the University of New South Wales',
   location: 'Sydney, Australia',
-  email: 'hello@example.com',
+  email: 'riddheshmehta006@gmail.com',
   summary:
-    'I build polished, reliable web products with thoughtful systems, fast interfaces, and a strong bias for shipping maintainable code.',
+    'I’m a Commerce and Information Systems student who is passionate about finance, accounting, and understanding how businesses and people make important financial decisions. I enjoy learning new things, solving problems, and working with others, which has led me to gain experience across financial services, mortgage broking support, CRM systems, and student mentoring. Through these experiences, I’ve developed strong communication, analytical, and interpersonal skills, and I’m excited to continue growing both personally and professionally within the finance and business world.',
 };
 
 const navigation = [
@@ -169,7 +169,7 @@ function Header({ menuOpen, setMenuOpen }) {
           onClick={() => setMenuOpen(false)}
         >
           <span className="grid h-9 w-9 place-items-center rounded-md border border-cyan/25 bg-cyan/10 text-cyan transition group-hover:border-cyan/60">
-            AC
+            RM
           </span>
           <span>{profile.name}</span>
         </a>
@@ -246,7 +246,7 @@ function Hero() {
         <div className="reveal">
           <p className="mb-5 inline-flex items-center gap-2 rounded-md border border-mint/20 bg-mint/10 px-3 py-2 text-sm font-medium text-mint">
             <span className="h-2 w-2 rounded-full bg-mint animate-pulseSoft" aria-hidden="true" />
-            Open to finance, technology, and analyst opportunities
+            Open to opportunities within the Finance and/or Accounting Industry
           </p>
 
           <h1 className="max-w-4xl text-5xl font-semibold leading-[1.02] text-ink sm:text-6xl lg:text-7xl">
