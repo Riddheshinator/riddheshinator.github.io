@@ -53,9 +53,7 @@ const experience = [
     role: 'Student Analyst',
     period: '2023 - 2024',
     points: [
-      'Prepared research, summaries, and analysis to support business or investment-related decisions.',
-      'Worked with spreadsheet models, financial information, and concise written communication.',
-      'Collaborated with peers and stakeholders to turn ambiguous questions into clear outputs.',
+      'Distinction Weighted Average Mark (78.33)',
     ],
   },
   {
@@ -73,7 +71,18 @@ const education = [
   {
     institution: 'University of New South Wales',
     degree: 'Bachelor of Commerce / Information Systems',
-    period: '2024 - Present',
+    period: '2025 - Present',
+    details: [
+      'Distinction Weighted Average Mark (83.25)',
+      'Ranked top 30 for Accounting and Accountability',
+      'Ranked 7th for Data Accuracy in Introduction to Data Analytics KNIME assessment',
+    ],
+  },
+];
+  {
+    institution: 'University of Technology Sydney',
+    degree: 'Bachelor of Commerce / Information Systems',
+    period: '2024 - 2025',
     details: [
       'Focused on finance, business analysis, information systems, and technology-enabled decision making.',
       'Developing practical skills across financial markets, data, systems thinking, and communication.',
@@ -310,7 +319,7 @@ function Education() {
         <SectionHeading
           eyebrow="Education"
           title="Academic foundation in commerce, finance, and information systems."
-          description="A dedicated section for your university, degree, coursework, achievements, and academic background."
+          description="Currently studying Commerce and Information Systems at UNSW, with a growing focus on finance, analytics, and technology-driven solutions."
         />
 
         <div className="mt-10 space-y-4">
