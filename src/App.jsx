@@ -114,19 +114,19 @@ const volunteering = [
 
 const certifications = [
   {
-    name: 'Bloomberg Certificate',
+    name: 'Bloomberg Market Concepts',
     issuer: 'Bloomberg',
-    detail: 'Market concepts, financial instruments, and applied terminal-based learning.',
+    detail: 'Completed Bloomberg Market Concepts (BMC), covering the fundamentals of economics, equities, fixed income, currencies, and financial markets through real-world market data and Bloomberg Terminal insights.',
   },
   {
-    name: 'Financial Analysis Certificate',
+    name: 'Bloomberg Financial Fundementals',
     issuer: 'Placeholder provider',
-    detail: 'Accounting fundamentals, valuation thinking, and business performance analysis.',
+    detail: 'Completed Bloomberg Finance Fundamentals, developing an understanding of financial statements, valuation concepts, capital structure, and the core principles used in corporate finance and investment analysis.',
   },
   {
-    name: 'Information Systems Certificate',
-    issuer: 'Placeholder provider',
-    detail: 'Systems thinking, data workflows, technology strategy, and digital transformation.',
+    name: 'Another certification is currently loading...',
+    issuer: 'Stay tuned...',
+    detail: 'Actively learning, currently completing the next addition to this section.',
   },
 ];
 
@@ -375,8 +375,8 @@ function Certifications() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           eyebrow="Certifications"
-          title="Certifications that support finance, markets, and systems knowledge."
-          description="Keep your Bloomberg certificate here, then add any extra certificates as you complete them."
+          title="Certifications and learning beyond the classroom."
+          description="A growing collection of certifications and practical learning experiences across finance, markets, analytics, and technology."
         />
 
         <div className="mt-10 grid gap-5 md:grid-cols-3">
