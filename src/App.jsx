@@ -17,7 +17,7 @@ import {
 const resumeHref = `${import.meta.env.BASE_URL}resume.html`;
 
 const profile = {
-  name: 'Alex Carter',
+  name: 'Riddhesh Mehta',
   title: 'Commerce and Information Systems student at the University of New South Wales',
   location: 'Sydney, Australia',
   email: 'hello@example.com',
