@@ -14,7 +14,7 @@ import {
   X,
 } from 'lucide-react';
 
-const resumeHref = `${import.meta.env.BASE_URL}resume.html`;
+const resumeHref = `${import.meta.env.BASE_URL}resume.pdf`;
 
 const profile = {
   name: 'Riddhesh Mehta',
@@ -37,7 +37,7 @@ const navigation = [
 const socials = [
   {
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/your-profile',
+    href: 'https://www.linkedin.com/in/riddhesh-mehta-3581332b2/',
     icon: Linkedin,
   },
   {
