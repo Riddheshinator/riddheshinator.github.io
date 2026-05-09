@@ -94,22 +94,21 @@ const education = [
 
 const volunteering = [
   {
-    organization: 'Student Society Placeholder',
-    role: 'Volunteer',
-    period: '2024 - Present',
+    organization: 'Financial Planning Student Group',
+    role: 'Careers Subcommittee',
+    period: 'April 2026 - Present',
     points: [
-      'Supported student events, networking initiatives, and community engagement activities.',
-      'Collaborated with peers to coordinate logistics, communications, and attendee experience.',
-      'Built teamwork, leadership, and stakeholder communication skills in a university setting.',
+      'Member of the Careers Subcommittee, contributing to planning of student career events and industry engagement initiatives.',
     ],
   },
   {
-    organization: 'Community Organisation Placeholder',
-    role: 'Community Volunteer',
-    period: '2023 - 2024',
+    organization: 'Real Estate Investment Student Association',
+    role: 'Events Director',
+    period: 'March 2025 - January 2026',
     points: [
-      'Contributed time to community-focused programs and practical support initiatives.',
-      'Worked with volunteers and coordinators to deliver reliable, people-focused outcomes.',
+      'Planned and executed impactful real estate events, increasing member engagement through strategic marketing initiatives.',
+      'Strengthened partnerships with sponsors, optimizing event budgets and enhancing visibility through targeted promotions.',
+      'Led cross-functional teams, ensuring seamless event delivery while proactively resolving challenges to maintain satisfaction.',
     ],
   },
 ];
@@ -409,8 +408,8 @@ function Experience() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           eyebrow="Experience"
-          title="Experience presented clearly, with space for finance and technology roles."
-          description="Placeholder roles that show the tone and structure for your real history."
+          title="Experience across finance, technology, and client-focused roles."
+          description="Building practical experience through finance, technology, leadership, and customer-focused roles."
         />
 
         <div className="mt-10 space-y-4">
@@ -454,8 +453,8 @@ function Volunteering() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           eyebrow="Volunteering"
-          title="Community involvement, leadership, and contribution beyond coursework."
-          description="Use this section for societies, mentoring, community work, events, or causes you have supported."
+          title="Leadership, involvement, and contributions outside the classroom."
+          description="Beyond academics and work, I enjoy contributing to student communities, leadership initiatives, and industry-focused organisations."
         />
 
         <div className="mt-10 grid gap-5 md:grid-cols-2">
