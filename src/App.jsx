@@ -499,7 +499,7 @@ function ResumeBand() {
           </p>
 
           <h2 className="mt-3 text-2xl font-semibold text-ink sm:text-3xl">
-            A concise snapshot of experience, certifications, and academic background.
+            For the lovely recruiters:
           </h2>
         </div>
 
@@ -523,8 +523,8 @@ function Contact() {
       <div className="mx-auto max-w-6xl">
         <SectionHeading
           eyebrow="Contact"
-          title="Connect about finance, technology, and early-career opportunities."
-          description="Use these links to get in touch or view my professional profile."
+          title="Let’s connect!"
+          description="Whether it’s an opportunity, a conversation, or just a shared interest in finance or technology, feel free to reach out!"
         />
 
         <div className="mt-10 grid gap-5 md:grid-cols-2">
