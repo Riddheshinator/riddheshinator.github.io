@@ -83,15 +83,13 @@ const education = [
       'Ranked 7th for Data Accuracy in Introduction to Data Analytics KNIME assessment',
     ],
   },
-];
   {
     institution: 'University of Technology Sydney',
     degree: 'Bachelor of Commerce / Information Systems',
     period: '2024 - 2025',
     details: [
+      'Distinction Weighted Average Mark (78.33)',
       'Focused on finance, business analysis, information systems, and technology-enabled decision making.',
-      'Developing practical skills across financial markets, data, systems thinking, and communication.',
-      'Replace this copy with your exact degree name, majors, WAM, awards, or relevant coursework.',
     ],
   },
 ];
